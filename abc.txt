@@ -1,6 +1,0 @@
-aaaabc.txt
-bc.txt
-bc.txt
-abc.txt
-abc.txt
-a
